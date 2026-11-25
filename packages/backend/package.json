@@ -10,14 +10,14 @@
     "seed:superadmin": "convex run seed:seedSuperAdmin"
   },
   "dependencies": {
-    "@clerk/backend": "^3.5.0",
-    "convex": "^1.41.0",
+    "@clerk/backend": "^3.33.0",
+    "convex": "^1.51.0",
     "dotenv": "catalog:",
     "zod": "catalog:"
   },
   "devDependencies": {
-    "@types/node": "^24.3.0",
+    "@types/node": "^26.6.7",
     "@uni-exam-sys/config": "workspace:*",
-    "typescript": "^5"
+    "typescript": "^7.0.2"
   }
 }
